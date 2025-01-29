@@ -17,7 +17,7 @@ class Axis extends Bank{
 }
 
 class Demo7 {
-    public static void main(String args[])
+    public static void main(String[] args)
     {
         Sbi s= new Sbi();
         s.roi();

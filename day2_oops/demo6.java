@@ -23,7 +23,7 @@ class A{
 
 class Demo6 {
 
-    public static void main(String args[])
+    public static void main(String[] args)
     {
         A a= new A();
         A a1= new A(1);

@@ -115,7 +115,7 @@ class Clerk extends Emp {
 }
 
 class Demo4 extends Emp {
-    public static void main(String args[]) {
+    public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
         int ch1 = 0, ch2 = 0;

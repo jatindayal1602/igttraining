@@ -20,7 +20,7 @@ class Child extends Parent{
 }
 
 class Demo1{
-    public static void main(String args[])
+    public static void main(String[] args)
     {
         Child c= new Child();
         c.display(9099);
