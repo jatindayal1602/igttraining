@@ -1,4 +1,4 @@
-package day3_oops;
+package day3_day4_oops;
 import java.util.Scanner;
 
 public class Demo5 {
