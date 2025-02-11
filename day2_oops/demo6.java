@@ -23,6 +23,7 @@ class A{
 
 class Demo6 {
 
+    @SuppressWarnings("unused")
     public static void main(String[] args)
     {
         A a= new A();

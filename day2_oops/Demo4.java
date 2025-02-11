@@ -5,6 +5,7 @@ class Emp {
     int id, age;
     String name;
 
+    @SuppressWarnings("resource")
     Emp() {
         Scanner sc = new Scanner(System.in);
 
